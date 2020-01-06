@@ -1,5 +1,6 @@
 /* eslint-env jest */
 import analyse from '../src/analyse';
+
 const object = analyse([1, 8, 3, 4, 2, 6]);
 test('it returns an object with the average,minimum, maximum and length of the array', () => {
   expect(object).toEqual({
