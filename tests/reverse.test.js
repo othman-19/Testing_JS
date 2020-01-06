@@ -1,3 +1,4 @@
+/* eslint-env jest */
 import reverseString from '../src/reverse';
 
 test('it reverse a string', () => {

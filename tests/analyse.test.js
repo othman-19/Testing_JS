@@ -1,3 +1,4 @@
+/* eslint-env jest */
 import analyse from '../src/analyse';
 
 test('it returns an object with the average,minimum, maximum and length of the array', () => {
@@ -6,6 +7,6 @@ test('it returns an object with the average,minimum, maximum and length of the a
     average: 4,
     min: 1,
     max: 8,
-    length: 6
+    length: 6,
   });
 });

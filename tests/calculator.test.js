@@ -1,3 +1,4 @@
+/* eslint-env jest */
 import calculator from '../src/calculator';
 
 test('2 plus 2 is equal to 4', () => {

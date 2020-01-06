@@ -1,3 +1,4 @@
+/* eslint-env jest */
 import capitalize from '../src/capitalize';
 
 test('it changes the first letter of a string to upper case', () => {

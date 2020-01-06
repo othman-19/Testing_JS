@@ -1,3 +1,4 @@
+/* eslint-env jest */
 import caesarShift from '../src/caesarShift';
 
 test('it shift character by 3', () => {
