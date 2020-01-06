@@ -2,8 +2,6 @@
 
 > This project is part of a series of projects to be completed by students of [Microverse](https://www.microverse.org/ "The Global School for Remote Software Developers!").
 
-![screenshot](./app_screenshot.png)
-
 The Testing_JS project comes at the end of the testing section of the Javascript course. It helps understand how to test javascript with Jest.
 
 ## Built With
